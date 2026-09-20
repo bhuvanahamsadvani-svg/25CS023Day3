@@ -1,0 +1,7 @@
+{
+  "name": "CryoTrack Logistics",
+  "description": "Biopharma cold-chain telemetry, GxP compliance auditing, and corridor route financial operating platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
